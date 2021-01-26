@@ -20,7 +20,7 @@ sudo mv "*.wav" "~/Documents/website-weather/audio/audio.wav"
 
 cd #Just a cd for safe measure
 
-#This next section if for pushing the files to GitHub
+#This next section is for pushing the files to GitHub
 cd ~/Documents/website-weather
 git status #I don't need to do this, but it can give some visual feedback if needed
 git commit -m "Automated file update"
