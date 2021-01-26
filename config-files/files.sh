@@ -26,4 +26,4 @@ git status #I don't need to do this, but it can give some visual feedback if nee
 git commit -m "Automated file update"
 git status #Again, I don't need to do this, but it can give some visual feedback if needed
 git add -A
-git push #Hopefully this shouldn't require a username and password, but if it does, use: git config credential.helper store
+git push
